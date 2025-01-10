@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "app.mariia.mariia"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "app.mariia.mariia"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
